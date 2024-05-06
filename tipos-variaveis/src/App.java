@@ -14,7 +14,7 @@ public class App {
 
         numero = 10;
 
-        System.out.print(numero);
+        System.out.print(meuNome);
 
         final double VALOR_DE_PI = 3.14;
 
